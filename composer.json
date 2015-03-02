@@ -30,7 +30,8 @@
         "typo3/eel": "2.3.x-dev",
         "typo3/party": "2.3.x-dev",
         "typo3/kickstart": "2.3.x-dev",
-        "itc/iteletraffic": "dev-master"
+        "itc/iteletraffic": "dev-master",
+        "lelesys/news": "1.2.x-dev"
     },
     "require-dev": {
         "typo3/buildessentials": "2.3.*",
