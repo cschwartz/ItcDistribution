@@ -759,12 +759,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:lsinfo3/Itc.ITeleTraffic.git",
-                "reference": "5aa51270a29f7c77b2dc139debd3ed47b18ed02f"
+                "reference": "a8c47dee573150f609f8c7a1ff91bb2639d13444"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lsinfo3/Itc.ITeleTraffic/zipball/5aa51270a29f7c77b2dc139debd3ed47b18ed02f",
-                "reference": "5aa51270a29f7c77b2dc139debd3ed47b18ed02f",
+                "url": "https://api.github.com/repos/lsinfo3/Itc.ITeleTraffic/zipball/a8c47dee573150f609f8c7a1ff91bb2639d13444",
+                "reference": "a8c47dee573150f609f8c7a1ff91bb2639d13444",
                 "shasum": ""
             },
             "require": {
@@ -782,7 +782,7 @@
                 "source": "https://github.com/lsinfo3/Itc.ITeleTraffic/tree/master",
                 "issues": "https://github.com/lsinfo3/Itc.ITeleTraffic/issues"
             },
-            "time": "2015-02-23 18:16:54"
+            "time": "2015-03-02 16:47:05"
         },
         {
             "name": "lelesys/news",
