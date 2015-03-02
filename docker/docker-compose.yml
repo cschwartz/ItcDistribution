@@ -1,4 +1,5 @@
-mage: million12/mariadb:latest
+db:
+  image: million12/mariadb:latest
   ports:
     - 3306
   environment:
@@ -11,8 +12,7 @@ web:
   links:
     - db:db
   environment:
-    - T3APP_VHOST_NAME=neos dev.neos behat.dev.neos
-    - GITHUB_OAUTH_TOKEN
+    T3APP_VHOST_NAMES: itc dev.itc behat.dev.itc
 
 dev:
   image: million12/php-app-ssh
