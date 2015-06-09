@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
     "hash": "170013ef504fcadcbf637eafab2573f4",
@@ -577,7 +577,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/migrations/zipball/058a4635ac9b80a5b1997df28a754e64b1425a1d",
+                "url": "https://api.github.com/repos/doctrine/migrations/zipball/67f02686c6c779ae50489728b91026bc8199720c",
                 "reference": "058a4635ac9b80a5b1997df28a754e64b1425a1d",
                 "shasum": ""
             },
@@ -763,7 +763,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lsinfo3/Itc.ITeleTraffic/zipball/a8c47dee573150f609f8c7a1ff91bb2639d13444",
+                "url": "https://api.github.com/repos/lsinfo3/Itc.ITeleTraffic/zipball/2bfaa78aa8893fb5277606c5d014853d7b70bf7f",
                 "reference": "a8c47dee573150f609f8c7a1ff91bb2639d13444",
                 "shasum": ""
             },
@@ -1280,7 +1280,7 @@
             "version": "2.3.x-dev",
             "source": {
                 "type": "git",
-                "url": "https://git.typo3.org/Packages/TYPO3.Party.git",
+                "url": "git://git.typo3.org/Packages/TYPO3.Party.git",
                 "reference": "fbcb7a86007e2b5c3bcaf83887c4524e0ad87980"
             },
             "require": {
@@ -2353,7 +2353,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/typo3-ci/TYPO3Flow/zipball/07f0c4fdd55ac274cb1ff190c7a6d1d6778586dc",
+                "url": "https://api.github.com/repos/typo3-ci/TYPO3Flow/zipball/13b68bc0650b5031d5ba410c175220bfa7d2eb22",
                 "reference": "07f0c4fdd55ac274cb1ff190c7a6d1d6778586dc",
                 "shasum": ""
             },
