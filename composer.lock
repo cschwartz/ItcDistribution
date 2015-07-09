@@ -757,12 +757,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:lsinfo3/Itc.ITeleTraffic.git",
-                "reference": "3b0370c42c00db758b46ef968c8581e04a12149f"
+                "reference": "50ef70696ff9096e41f64d6adeff88e8932a85e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lsinfo3/Itc.ITeleTraffic/zipball/3b0370c42c00db758b46ef968c8581e04a12149f",
-                "reference": "3b0370c42c00db758b46ef968c8581e04a12149f",
+                "url": "https://api.github.com/repos/lsinfo3/Itc.ITeleTraffic/zipball/50ef70696ff9096e41f64d6adeff88e8932a85e0",
+                "reference": "50ef70696ff9096e41f64d6adeff88e8932a85e0",
                 "shasum": ""
             },
             "require": {
@@ -780,7 +780,7 @@
                 "source": "https://github.com/lsinfo3/Itc.ITeleTraffic/tree/master",
                 "issues": "https://github.com/lsinfo3/Itc.ITeleTraffic/issues"
             },
-            "time": "2015-07-07 08:36:49"
+            "time": "2015-07-09 08:33:17"
         },
         {
             "name": "lelesys/news",
@@ -1005,7 +1005,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "df6956fb98ddf82fc8911df0f31d69bfc6ad0385"
+                "reference": "9113015c75a7b22d1bb9d7af62a5be08d80b2cd6"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1039,7 +1039,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2015-07-02 14:06:39"
+            "time": "2015-07-09 09:26:26"
         },
         {
             "name": "typo3/fluid",
