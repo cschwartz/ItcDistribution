@@ -7,7 +7,7 @@ ENV DB_ENV_MARIADB_USER itc2016
 ENV T3APP_NAME itc28
 ENV T3APP_VHOST_NAMES "neos itc28.org itchos.informatik.uni-wuerzburg.de itc28 itchos"
 
-ENV T3APP_BUILD_REPO_URL https://github.com/cschwartz/ItcDistribution.git
+ENV T3APP_BUILD_REPO_URL https://github.com/lsinfo3/ItcDistribution.git
 ENV T3APP_BUILD_BRANCH master
 ENV T3APP_NEOS_SITE_PACKAGE Itc.ITeleTraffic
 

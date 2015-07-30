@@ -757,12 +757,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:lsinfo3/Itc.ITeleTraffic.git",
-                "reference": "50ef70696ff9096e41f64d6adeff88e8932a85e0"
+                "reference": "581f73398e1a172985a93b0cb258900d4a8080cf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lsinfo3/Itc.ITeleTraffic/zipball/50ef70696ff9096e41f64d6adeff88e8932a85e0",
-                "reference": "50ef70696ff9096e41f64d6adeff88e8932a85e0",
+                "url": "https://api.github.com/repos/lsinfo3/Itc.ITeleTraffic/zipball/581f73398e1a172985a93b0cb258900d4a8080cf",
+                "reference": "581f73398e1a172985a93b0cb258900d4a8080cf",
                 "shasum": ""
             },
             "require": {
@@ -780,7 +780,7 @@
                 "source": "https://github.com/lsinfo3/Itc.ITeleTraffic/tree/master",
                 "issues": "https://github.com/lsinfo3/Itc.ITeleTraffic/issues"
             },
-            "time": "2015-07-09 08:33:17"
+            "time": "2015-07-14 12:17:05"
         },
         {
             "name": "lelesys/news",
@@ -820,16 +820,16 @@
         },
         {
             "name": "symfony/console",
-            "version": "v2.7.1",
+            "version": "v2.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Console.git",
-                "reference": "564398bc1f33faf92fc2ec86859983d30eb81806"
+                "reference": "8cf484449130cabfd98dcb4694ca9945802a21ed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Console/zipball/564398bc1f33faf92fc2ec86859983d30eb81806",
-                "reference": "564398bc1f33faf92fc2ec86859983d30eb81806",
+                "url": "https://api.github.com/repos/symfony/Console/zipball/8cf484449130cabfd98dcb4694ca9945802a21ed",
+                "reference": "8cf484449130cabfd98dcb4694ca9945802a21ed",
                 "shasum": ""
             },
             "require": {
@@ -873,7 +873,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2015-06-10 15:30:22"
+            "time": "2015-07-09 16:07:40"
         },
         {
             "name": "symfony/dom-crawler",
@@ -981,7 +981,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Eel.git",
-                "reference": "74e4b7493128ae6841a7019f2158d73c1c71d2d9"
+                "reference": "c32567e9334295310b8b2b39880c4466074b1d9c"
             },
             "require": {
                 "typo3/flow": "2.3.*"
@@ -997,7 +997,7 @@
                 "LGPL-3.0+"
             ],
             "description": "The Embedded Expression Language (Eel) is a building block for creating Domain Specific Languages",
-            "time": "2015-07-01 12:34:54"
+            "time": "2015-07-09 13:52:10"
         },
         {
             "name": "typo3/flow",
@@ -1005,7 +1005,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.typo3.org/Packages/TYPO3.Flow.git",
-                "reference": "9113015c75a7b22d1bb9d7af62a5be08d80b2cd6"
+                "reference": "3b8707aec849c217a7566868ebd86708aceb37f9"
             },
             "require": {
                 "composer/installers": "~1.0.2",
@@ -1039,7 +1039,7 @@
             ],
             "description": "TYPO3 Flow Application Framework",
             "homepage": "http://flow.typo3.org",
-            "time": "2015-07-09 09:26:26"
+            "time": "2015-07-09 23:20:35"
         },
         {
             "name": "typo3/fluid",
@@ -1524,16 +1524,16 @@
         },
         {
             "name": "phpunit/php-code-coverage",
-            "version": "2.1.7",
+            "version": "2.1.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
-                "reference": "07e27765596d72c378a6103e80da5d84e802f1e4"
+                "reference": "6044546998c7627ab997501a3d0db972b3db9790"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/07e27765596d72c378a6103e80da5d84e802f1e4",
-                "reference": "07e27765596d72c378a6103e80da5d84e802f1e4",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/6044546998c7627ab997501a3d0db972b3db9790",
+                "reference": "6044546998c7627ab997501a3d0db972b3db9790",
                 "shasum": ""
             },
             "require": {
@@ -1582,7 +1582,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2015-06-30 06:52:35"
+            "time": "2015-07-13 11:25:58"
         },
         {
             "name": "phpunit/php-file-iterator",
