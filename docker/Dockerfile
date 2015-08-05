@@ -17,6 +17,7 @@ VOLUME ["/srv/itc28/Resources"]
 
 RUN . /build-typo3-app/pre-install-typo3-app.sh
 
+COPY install2nd.sh /
 ENV T3APP_BUILD_REP_URL https://github.com/lsinfo3/ITC.ITeleTraffic.Main
 ENV T3APP_NEOS_SITE_PACKAGE Itc.ITeleTrafficMain
-RUN . install2nd.sh
+RUN . /install2nd.sh
