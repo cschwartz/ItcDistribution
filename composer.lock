@@ -757,12 +757,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:lsinfo3/Itc.ITeleTraffic.git",
-                "reference": "94b95ab21963e5fcd3c360258a23b3360ce85015"
+                "reference": "135c3f45c34df306a31d76601f8de882a7611550"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lsinfo3/Itc.ITeleTraffic/zipball/94b95ab21963e5fcd3c360258a23b3360ce85015",
-                "reference": "94b95ab21963e5fcd3c360258a23b3360ce85015",
+                "url": "https://api.github.com/repos/lsinfo3/Itc.ITeleTraffic/zipball/135c3f45c34df306a31d76601f8de882a7611550",
+                "reference": "135c3f45c34df306a31d76601f8de882a7611550",
                 "shasum": ""
             },
             "require": {
@@ -780,7 +780,7 @@
                 "source": "https://github.com/lsinfo3/Itc.ITeleTraffic/tree/master",
                 "issues": "https://github.com/lsinfo3/Itc.ITeleTraffic/issues"
             },
-            "time": "2015-08-05 09:25:09"
+            "time": "2015-08-05 09:41:01"
         },
         {
             "name": "lelesys/news",
@@ -1460,12 +1460,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Flowpack/Flowpack.Behat.git",
-                "reference": "39131bf631a1bf9a0bb84184a3d06d8c23016326"
+                "reference": "42ba311bd9e1c42c822abdce7a738cd9f0a26e61"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Flowpack/Flowpack.Behat/zipball/39131bf631a1bf9a0bb84184a3d06d8c23016326",
-                "reference": "39131bf631a1bf9a0bb84184a3d06d8c23016326",
+                "url": "https://api.github.com/repos/Flowpack/Flowpack.Behat/zipball/42ba311bd9e1c42c822abdce7a738cd9f0a26e61",
+                "reference": "42ba311bd9e1c42c822abdce7a738cd9f0a26e61",
                 "shasum": ""
             },
             "require": {
@@ -1482,7 +1482,7 @@
                 "LGPL-3.0+"
             ],
             "description": "Behat support package for TYPO3 Flow",
-            "time": "2015-08-04 11:48:03"
+            "time": "2015-08-05 09:39:41"
         },
         {
             "name": "mikey179/vfsStream",
