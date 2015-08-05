@@ -5,7 +5,7 @@ ENV DB_PORT_3306_TCP_ADDR 172.17.42.1
 ENV DB_PORT_3306_TCP_PORT 3306
 ENV DB_ENV_MARIADB_USER itc2016
 ENV T3APP_NAME itc28
-ENV T3APP_VHOST_NAMES "neos itc28.org itchos.informatik.uni-wuerzburg.de itc28 itchos"
+ENV T3APP_VHOST_NAMES "neos itc28.org itchos.informatik.uni-wuerzburg.de itc28 itchos i-teletraffic.dev i-teletraffic"
 
 ENV T3APP_BUILD_REPO_URL https://github.com/lsinfo3/ItcDistribution.git
 ENV T3APP_BUILD_BRANCH master
