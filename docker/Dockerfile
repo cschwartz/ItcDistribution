@@ -8,7 +8,7 @@ ENV T3APP_NAME itc28
 ENV T3APP_VHOST_NAMES "neos itc28.org www.itc28.org itchos.informatik.uni-wuerzburg.de itc28 itchos i-teletraffic.dev i-teletraffic beta.i-teletraffic.org www.itc25.com itc25.dev"
 
 ENV T3APP_BUILD_REPO_URL https://github.com/lsinfo3/ItcDistribution.git
-ENV T3APP_BUILD_BRANCH bba808c
+ENV T3APP_BUILD_BRANCH master
 ENV T3APP_NEOS_SITE_PACKAGE Itc.ITeleTraffic
 
 ADD config.json /root/.composer/config.json
