@@ -7,8 +7,8 @@ ENV DB_ENV_MARIADB_USER itc2016
 ENV T3APP_NAME itc28
 ENV T3APP_VHOST_NAMES "neos itc28.org www.itc28.org itchos.informatik.uni-wuerzburg.de itc28 itchos i-teletraffic.dev i-teletraffic beta.i-teletraffic.org www.i-teletraffic.org i-teletraffic.org"
 
-ENV T3APP_BUILD_REPO_URL https://github.com/lsinfo3/ItcDistribution.git
-ENV T3APP_BUILD_BRANCH neos1
+ENV T3APP_BUILD_REPO_URL https://github.com/lsinfo3/ItcDist28
+ENV T3APP_BUILD_BRANCH master
 ENV T3APP_NEOS_SITE_PACKAGE Itc.ITeleTraffic
 
 ADD config.json /root/.composer/config.json
