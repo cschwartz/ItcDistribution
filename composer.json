@@ -53,7 +53,7 @@
         "itc/iteletraffic": "dev-master",
         "lelesys/news": "1.2.x-dev",
         "itc/itc25": "dev-master",
-        "itc/iteletrafficmain": "dev-master"
+        "itc/iteletrafficmain": "dev-itc28"
     },
     "require-dev": {
         "typo3/buildessentials": "2.3.*",
